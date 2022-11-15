@@ -11,7 +11,7 @@ $fontSize = 8;
  * Config of DB
  */
 $host = 'localhost';
-$dbname = 'node_mysql_crud';
+$dbname = 'mysql_xlsx';
 $user = 'root';
 $pass = '123456';
 $tabela = 'clientes';
